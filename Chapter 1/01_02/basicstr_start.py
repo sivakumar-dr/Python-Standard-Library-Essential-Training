@@ -1,5 +1,5 @@
 # use predefined string constants
-#import string
+import string
 
 
 # TODO: predefined string constants can be used in common scenarios
